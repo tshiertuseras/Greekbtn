@@ -37,9 +37,9 @@
   ⚠️ <strong>Disclaimer:</strong> The use of this tool for any form of attack or unauthorized testing is strictly prohibited and may result in severe legal consequences. This tool is exclusively designed for educational and research purposes only.
 </p>
 
-1. **Clone the Repository:** Begin by cloning the repository to your local machine.
-2. **Navigate to the Project Directory:** Move to the project directory using your preferred terminal or command prompt.
-3. **Follow Setup Instructions:** Refer to the comprehensive setup instructions provided in the individual tool directories for seamless setup and usage.
+1. **Clone the Repository:** Begin by cloning the repository to your local machine (git clone https://github.com/tshiertuseras/Greekbtn/edit/main).
+2. **Navigate to the Project Directory:** Move to the project directory using your preferred terminal or command prompt (cd ZxCDDoS).
+3. **Follow Setup Instructions:** Refer to the comprehensive setup instructions provided in the individual tool directories for seamless setup and usage (python3 c2.py).
 
 ---
 
