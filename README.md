@@ -1,7 +1,7 @@
 <h1 align="center">DDoS Tool and Botnet Project</h1>
 
 <p align="center">
-  <img src="https://example.com/ddos-tool-botnet.png" alt="DDoS Tool and Botnet Project Logo">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.render.com%2Fddos-protection&psig=AOvVaw2Z-yQpVezkLKTW73PIJrcW&ust=1707061690664000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDq59Cnj4QDFQAAAAAdAAAAABAE" alt="DDoS Tool and Botnet Project Logo">
 </p>
 
 <h2 align="center">Disclaimer</h2>
