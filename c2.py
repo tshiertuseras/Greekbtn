@@ -689,6 +689,7 @@ CLEAR   ► CLEAR TERMINAL
 
 
 def login():
+    global ascii_vro
     clear()
     user = "admin"
     passwd = "admin"
