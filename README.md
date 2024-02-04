@@ -45,7 +45,7 @@
 </p>
 
 1. **Clone the Repository**: git clone https://github.com/tshiertuseras/Greekbtn
-2. **Open Terminal in the Folader**: cd ZxCDDoS
+2. **Open Terminal in the Folader**: cd Soic
 3. **Run the file**: python3 c2.py
 4. It works in cloudshell https://cloud.google.com/shell
 ---
